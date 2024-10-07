@@ -12,7 +12,7 @@ function Header() {
     <header>
       <div className="nav container">
         <i className='bx bx-menu' id="menu" onClick={toggleMenu}></i>
-        <a href="#about" className="logo">Car<span>Point</span></a>
+        <a href="#about" className="logo">Dilek<span>Baler LLC</span></a>
         <ul className={`navbar ${isMenuOpen ? 'show' : ''}`}>
           <li><a href="#home">Home</a></li>
           <li><a href="#about">About</a></li>
