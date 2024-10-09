@@ -10,7 +10,8 @@ function Contact() {
                         <ul className="contact-infos">
                             <li><i class='bx bxs-envelope'></i> dilekbalerllc@gmail.com </li>
                             <li><i class='bx bxs-phone-call' ></i> +1 (786) 710-3038</li>
-                            <li><i class='bx bxs-location-plus'></i> Konum Girilicek!</li>
+                            <li><i class='bx bxs-location-plus'></i> 7901 4th St N Ste 300 </li>
+                            <li className='spacial-p'> St Petersburg, FL 33702</li>
                         </ul>
                     </div>
                 <div className="social-links">

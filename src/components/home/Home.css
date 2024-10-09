@@ -28,6 +28,8 @@
 
 }
 .btn{
+    position: relative;
+    top: 15px;
     padding: 14px 40px;
     background: var(--main-color);
     color: var(--bg-color);
