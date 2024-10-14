@@ -12,6 +12,11 @@ function Contact() {
                             <li><i class='bx bxs-phone-call' ></i> +1 (786) 710-3038</li>
                             <li><i class='bx bxs-location-plus'></i> 7901 4th St N Ste 300 </li>
                             <li className='spacial-p'> St Petersburg, FL 33702</li>
+                            <br />
+                            <h2 style={{ fontSize: "18px" }}>Our free vehicle drop-off points</h2>
+                           <li><i class='bx bxs-location-plus'></i> 3100 North Miami Avenue</li>
+                           <li><i class='bx bxs-location-plus'></i> 202 Calabria Avenue</li>
+                           <li><i class='bx bxs-location-plus'></i> 910 Pennsylvania Avenue</li>
                         </ul>
                     </div>
                 <div className="social-links">
